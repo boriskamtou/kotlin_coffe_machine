@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb73775e-5519-45f4-8cf6-6bc2b897eafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coffee_machine.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/old.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teste.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/META-INF/Kotlin_projects.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/META-INF/Kotlin_projects.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt$main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/OldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/TesteKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/TesteKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_projects/TesteKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_projects/TesteKt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +29,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+            <state relative-caret-position="1504">
+              <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore.text">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/teste.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="6" selection-start-line="6" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -51,15 +79,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/old.kt" />
-        <option value="$PROJECT_DIR$/src/teste.kt" />
         <option value="$PROJECT_DIR$/src/main.kt" />
+        <option value="$PROJECT_DIR$/src/teste.kt" />
+        <option value="$PROJECT_DIR$/.gitignore.text" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
+    <option name="x" value="245" />
+    <option name="y" value="28" />
+    <option name="width" value="1062" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,6 +133,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Kotlin_projects" />
+      <recent name="C:\Kotlin_projects\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,7 +203,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15204236" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15204236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -177,12 +212,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28968903" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3535188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -206,15 +241,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/teste.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1184">
-          <caret line="106" selection-start-line="106" selection-end-line="113" selection-end-column="41" />
+        <state relative-caret-position="30">
+          <caret line="6" selection-start-line="6" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        <state relative-caret-position="1504">
+          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
